@@ -222,13 +222,6 @@ python -m jupyter notebook
 - [Gradient Boosting](https://scikit-learn.org/stable/modules/ensemble.html#gradient-boosting)
 - [Feature Engineering](https://en.wikipedia.org/wiki/Feature_engineering)
 
-## 👤 Author
-
-Your Name - [GitHub Profile](https://github.com/yourusername)
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🤝 Contributing
 
